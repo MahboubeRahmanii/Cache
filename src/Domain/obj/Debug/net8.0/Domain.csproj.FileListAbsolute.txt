@@ -1,0 +1,11 @@
+H:\DemoCode\TaghcheTaskLatest\src\Domain\bin\Debug\net8.0\Domain.deps.json
+H:\DemoCode\TaghcheTaskLatest\src\Domain\bin\Debug\net8.0\Domain.dll
+H:\DemoCode\TaghcheTaskLatest\src\Domain\bin\Debug\net8.0\Domain.pdb
+H:\DemoCode\TaghcheTaskLatest\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\DemoCode\TaghcheTaskLatest\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+H:\DemoCode\TaghcheTaskLatest\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+H:\DemoCode\TaghcheTaskLatest\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+H:\DemoCode\TaghcheTaskLatest\src\Domain\obj\Debug\net8.0\Domain.dll
+H:\DemoCode\TaghcheTaskLatest\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+H:\DemoCode\TaghcheTaskLatest\src\Domain\obj\Debug\net8.0\Domain.pdb
+H:\DemoCode\TaghcheTaskLatest\src\Domain\obj\Debug\net8.0\ref\Domain.dll
